@@ -8,6 +8,6 @@ O darkmode foi criado no arquivo style.css através do uso de  variáveis para c
 
 Caso o usuário clique no ícone lua/sol, o darkmode é alternado conforme sugere o ícone, e um código javascript salva a preferência do usuário no localstorage. Assim, caso o usuário feche e abra depois o navegador, a preferência estará gravada para continuar com o tema que estava no momento em que o navegador foi fechado.
 
-![tema-classico](./img/tema-classico.jpg)
+![tema-classico](./img/tema-classico.jpg "tema clássico")
 
-![tema-escuro](./img/tema-escuro.jpg)
+![tema-escuro](./img/tema-escuro.jpg "tema escuro")
